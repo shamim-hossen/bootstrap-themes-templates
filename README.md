@@ -1,2 +1,1 @@
-# simple-nav-bar
-Simple navigation with dropdown menu
+# bootstrap-themes-templates
